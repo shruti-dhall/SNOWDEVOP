@@ -3,3 +3,8 @@ this is sample file .
 simple and sample 
 
 to add something in this file need to edit it 
+
+want to add more features 
+
+easy to navigate 
+easy to understand 
